@@ -1,0 +1,23 @@
+{
+  "name": "rss-feed-terminal-codementor",
+  "version": "0.0.1",
+  "description": "RSS feed in terminal made with Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/federico-costanzo-211/rss-feed-terminal-codementor.git"
+  },
+  "author": "rocktm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/federico-costanzo-211/rss-feed-terminal-codementor/issues"
+  },
+  "homepage": "https://github.com/federico-costanzo-211/rss-feed-terminal-codementor#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "rss-parser": "^3.13.0"
+  }
+}
